@@ -1,8 +1,8 @@
-# Qt + Ollama — Proyecto Integrador de Programación Orientada a Objetos
+# Qt + Ollama — Proyecto básico de prueba 
 
 Aplicación de ejemplo desarrollada en **C++ con Qt Widgets** que permite escribir un comando o *prompt* desde una interfaz gráfica, enviarlo a **Ollama** mediante una API local y mostrar la respuesta generada por un modelo de IA.
 
-Este repositorio sirve como base para el **proyecto integrador** del curso de Programación Orientada a Objetos. La intención es que los estudiantes comiencen con un ejemplo funcional y lo evolucionen progresivamente aplicando conceptos de POO como clases, objetos, apuntadores, encapsulamiento, herencia, polimorfismo, clases abstractas, miembros estáticos, sobrecarga de operadores y manejo de errores.
+Este repositorio sirve como base para el **proyecto integrador** del curso de Programación Orientada a Objetos. La intención es qproporcionar un ejemplo funcional y que pueda evolucionar progresivamente aplicando conceptos de POO como clases, objetos, apuntadores, encapsulamiento, herencia, polimorfismo, clases abstractas, miembros estáticos, sobrecarga de operadores y manejo de errores.
 
 ---
 
