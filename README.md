@@ -4,6 +4,9 @@ Aplicación de ejemplo desarrollada en **C++ con Qt Widgets** que permite escrib
 
 Este repositorio sirve como base para el **proyecto integrador** del curso de Programación Orientada a Objetos. La intención es qproporcionar un ejemplo funcional y que pueda evolucionar progresivamente aplicando conceptos de POO como clases, objetos, apuntadores, encapsulamiento, herencia, polimorfismo, clases abstractas, miembros estáticos, sobrecarga de operadores y manejo de errores.
 
+![Flujo de operación del proyecto](https://github.com/ProfCDuqueTec/basicQtOllama/blob/main/SimpleDescriptionDiagram.png)
+
+
 ---
 
 ## 1. Objetivo del proyecto
